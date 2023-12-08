@@ -10,14 +10,18 @@ For more details about the project, see robovqa.github.io
 Run the Colab file `demo.ipynb`. Follow the inline comments for detailed
 instructions.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/google-deepmind/robovqa/data_loading_and_eval.ipynb)
+
 ## Citing this work
 
+```bibtex
 @inproceedings{robovqa2023arxiv,
     title={RoboVQA: Multimodal Long-Horizon Reasoning for Robotics},
     author={Pierre Sermanet and Tianli Ding and Jeffrey Zhao and Fei Xia and Debidatta Dwibedi and Keerthana Gopalakrishnan and Christine Chan and Gabriel Dulac-Arnold and Sharath Maddineni and Nikhil J Joshi and Pete Florence and Wei Han and Robert Baruch and Yao Lu and Suvir Mirchandani and Peng Xu and Pannag Sanketi and Karol Hausman and Izhak Shafran and Brian Ichter and Yuan Cao},
     booktitle={arXiv preprint arXiv:2311.00899},
     year={2023}
 }
+```
 
 ## License and disclaimer
 
