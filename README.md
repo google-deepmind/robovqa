@@ -7,10 +7,10 @@ For more details about the project, see robovqa.github.io
 
 ## Usage
 
-Run the Colab file `demo.ipynb`. Follow the inline comments for detailed
-instructions.
+Run the Colab file `data_loading_and_eval.ipynb`. Follow the inline comments for
+ detailed instructions.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/google-deepmind/robovqa/data_loading_and_eval.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/google-deepmind/robovqa/blob/main/data_loading_and_eval.ipynb)
 
 ## Citing this work
 
